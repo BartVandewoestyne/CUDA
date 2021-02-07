@@ -1,0 +1,16 @@
+Programming Massively Parallel Processors: A Hands-on Approach
+David B. Kirk, Wen-mei W. Hwu
+ISBN 978-0-12-381472-2
+2010
+-> Is very good according to Tim Warburton.
+
+CUDA by Example: An Introduction to General-Purpose GPU Programming
+Jason Sanders, Edward Kandrot
+ISBN 978-0-13-138768-3
+2011
+
+The OpenCL Programming Book
+Fixstars Corporation (Ryoji Tsuchiyama, Takashi Nakamura, Takuro Iizuka,
+                      Akihiro Asahara, Satoshi Miki)
+Published Date: 3/31/2010
+http://www.fixstars.com/en/company/books/opencl/
